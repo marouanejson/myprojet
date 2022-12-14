@@ -9,11 +9,6 @@
     
     "categories":[
         {
-            "cid":7,
-            "category_name":"AAAAAAAa",
-            "category_image":"https://raw.githubusercontent.com/merrooapps/blamadkholasat/main/120/yacinetvguide/arg.png"
-        },
-        {
             "cid":6,
             "category_name":"Music",
             "category_image":"https://est.irondev.ma/the_stream/upload/category/1625135259_7102-2017-04-13.png"
@@ -46,42 +41,6 @@
     ],
     
     "channels":[
-        {
-            "channel_id":1,
-            "category_id":7,
-            "channel_name":"AAAAAAAAAAAAAAa",
-            "channel_image":"https://marouaneai.com/yacinetvapp/app/upload/1670862427_maroc.png",
-            "channel_url":"http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8",
-            "channel_description":"<h3><a href=\"https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf\" target=\"_blank\">Share the App with friends</a></h3>\r\n",
-            "channel_type":"walo",
-            "video_id":"5455",
-            "category_name":"Automotive",
-            "user_agent":"walo"
-        },
-        {
-            "channel_id":1,
-            "category_id":7,
-            "channel_name":"Youtube",
-            "channel_image":"https://est.irondev.ma/the_stream/upload/1625126278_WeAreGoingOnBullrun.jpg",
-            "channel_url":"",
-            "channel_description":"<p>The Smoking Tire is going on the 2010 Bullrun Live Rally in a 2011 Shelby GT500, and posting a video from the road every single day! The only place to watch them is by subscribing to The Smoking Tire or watching at BlackMagicShine.com<\/p>\r\n",
-            "channel_type":"YOUTUBE",
-            "video_id":"BnZJWbOy0Fk",
-            "category_name":"Automotive",
-            "user_agent":"default"
-        },
-        {
-            "channel_id":1,
-            "category_id":7,
-            "channel_name":"AAAAA useragent",
-            "channel_image":"https://est.irondev.ma/the_stream/upload/1625126489_VolkswagenGTIReview.jpg",
-            "channel_url":"http://lb.yacinetvkora.com/live/lb555/bm1-720.m3u8",
-            "channel_description":"<p>The Smoking Tire heads out to Adams Motorsports Park in Riverside, CA to test the most requested car of 2010, the Volkswagen GTI. Will it beat the Mazdaspeed3's standard-setting lap time? Watch and see...<\/p>\r\n",
-            "channel_type":"URL",
-            "video_id":"",
-            "category_name":"Automotive",
-            "user_agent":"yestv99"
-        },
         {
             "channel_id":5,
             "category_id":1,
