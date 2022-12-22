@@ -1,7 +1,7 @@
 {
     "status": "ok",
     "banner": {
-        "show": true,
+        "show": false,
         "image": "https:\/\/img.freepik.com\/free-vector\/software-testing-banner_80328-15.jpg",
         "external_url": "https:\/\/irondev.ma\/"
     },
@@ -38,7 +38,7 @@
         },
         {
             "cid": "5",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "category_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/category/1670457274_139739-egypt-flag-download-hq.png"
         },
         {
@@ -953,22 +953,22 @@
             "category_id": "8",
             "channel_name": "TF1 SERIES",
             "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670257736_1670194618_croitia - Copie (12) - Copie.png",
-            "channel_url": "http:\/\/gratuittv.free.fr\/Files\/tfsf\/live\/playlist.m3u8",
+            "channel_url": "https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
             "category_name": "FRANCE CHANNELS",
-            "user_agent": "Dalvik\/2.1.0 (Linux; U; Android 7.1.1; 2201117SG Build\/N6F26Q)"
+            "user_agent": "default"
         },
         {
             "channel_id": "46",
             "category_id": "8",
             "channel_name": "FRANCE 24",
             "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670257692_1670194618_croitia - Copie (15) - Copie.png",
-            "channel_url": " http:\/\/static.france24.com:80\/live\/F24_FR_HI_HLS\/live_tv.m3u8?t=bWi71zJqsJKXmqWU2KlzMA&e=1670442304",
+            "channel_url": "",
             "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
+            "channel_type": "YOUTUBE",
+            "video_id": "gxG3pdKvlIs",
             "category_name": "FRANCE CHANNELS",
             "user_agent": "default"
         },
@@ -1149,7 +1149,7 @@
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
@@ -1161,7 +1161,7 @@
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
@@ -1173,7 +1173,7 @@
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
@@ -1181,11 +1181,11 @@
             "category_id": "5",
             "channel_name": "MBC4",
             "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670256529_1670194618_croitia - Copie (4).png",
-            "channel_url": "A",
+            "channel_url": "https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
@@ -1197,7 +1197,7 @@
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
@@ -1209,7 +1209,7 @@
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
@@ -1217,11 +1217,23 @@
             "category_id": "5",
             "channel_name": "MBC Drama",
             "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670256446_1670194618_croitia - Copie (5).png",
-            "channel_url": "https:\/\/shls-mbcdramaksa-prod-dub.shahid.net\/out\/v1\/ce0f0762d89e4394a856c5fd13e43645\/index.m3u8?t=TROgzCcKMt0BrcXIpR68rg&e=1670442304",
+            "channel_url": "https://shls-mbcdramaksa-ak.akamaized.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
+            "user_agent": "default"
+        },
+        {
+            "channel_id": "200",
+            "category_id": "5",
+            "channel_name": "MBC Drama Plus",
+            "channel_image": "http://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg",
+            "channel_url": "https://shls-masr2-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
@@ -1233,31 +1245,31 @@
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
             "channel_id": "21",
             "category_id": "5",
-            "channel_name": "MBC Maser 1",
+            "channel_name": "MBC Masr 1",
             "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670256270_1670194618_croitia - Copie (10).png",
-            "channel_url": " https:\/\/shls-masr-prod-dub.shahid.net\/out\/v1\/b7093401da27496797a8949de23f4578\/index.m3u8?t=DhvDs2SBUUgIZtia2eO7CQ&e=1670442288",
+            "channel_url": "https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
             "channel_id": "20",
             "category_id": "5",
-            "channel_name": "MBC Maser ",
+            "channel_name": "MBC Masr 2",
             "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670256235_1670194618_croitia - Copie (8).png",
-            "channel_url": "https:\/\/shls-masr2-prod-dub.shahid.net\/out\/v1\/f683685242b549f48ea8a5171e3e993a\/index.m3u8?t=T_rPbnBUTtxOgu0SqcoyEA&e=1670442297",
+            "channel_url": "https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
@@ -1265,11 +1277,11 @@
             "category_id": "5",
             "channel_name": "MBC IRAQ",
             "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670256188_1670194618_croitia - Copie (9).png",
-            "channel_url": "A",
+            "channel_url": "https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
@@ -1281,7 +1293,7 @@
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
@@ -1289,23 +1301,23 @@
             "category_id": "5",
             "channel_name": "MBC Bollywood",
             "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670256123_1670194618_croitia - Copie (24) - Copie.png",
-            "channel_url": "A",
+            "channel_url": "https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         },
         {
             "channel_id": "16",
             "category_id": "5",
-            "channel_name": "MBC Variety",
-            "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670256077_1670194618_croitia - Copie (18) - Copie.png",
-            "channel_url": "A",
+            "channel_name": "MBC Persia",
+            "channel_image": "http://www.elahmad.com/tv/mobiletv/images/mbc_persia.jpg",
+            "channel_url": "https://shls-mbcdramaksa-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "EGYPT CHANNELS",
+            "category_name": "MBC CHANNELS",
             "user_agent": "default"
         }
     ]
