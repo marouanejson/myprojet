@@ -54,6 +54,18 @@
     ],
     "channels": [
         {
+            "channel_id": "125",
+            "category_id": "14",
+            "channel_name": " Manchester City vs Liverpool ",
+            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/man city.png",
+            "channel_url": "http://45.63.79.56/bein_sports_premium_1_hd/video.m3u8?token=gY8eHYWGN1Bkp3",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "بث مباشر ",
+            "user_agent": "default"
+        },
+        {
             "channel_id": "124",
             "category_id": "14",
             "channel_name": " Manchester City vs Liverpool ",
@@ -80,9 +92,9 @@
         {
             "channel_id": "122",
             "category_id": "13",
-            "channel_name": "SSC1",
+            "channel_name": "SSC 1",
             "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670425463_1 - Copie (2).png",
-            "channel_url": "1, https:\/\/ssc-news-ak.akamaized.net\/out\/v1\/4af66d04e77349079c01c9bab46d8b28\/index.m3u8",
+            "channel_url": "https:\/\/ssc-news-ak.akamaized.net\/out\/v1\/4af66d04e77349079c01c9bab46d8b28\/index.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
