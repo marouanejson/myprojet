@@ -58,7 +58,7 @@
             "category_id": "14",
             "channel_name": " Manchester City vs Liverpool ",
             "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/man city.png",
-            "channel_url": "https://llhls-live.akamaized.net/exp=1671743117~acl=%2F09ce1c81-96e3-42d7-b535-6a1afa3e929d_llhls%2F%2A~hmac=acaa360a7b7894f6d4a38ab49039251929744d30a0dc1f7d476c853e2f379dc3/09ce1c81-96e3-42d7-b535-6a1afa3e929d_llhls/hls.m3u8",
+            "channel_url": "https://llhls-live.akamaized.net/exp=1671746822~acl=%2F1f10cd86-478b-4e63-8d4b-87c6760e8e69_llhls%2F%2A~hmac=c5e6b07d0e8149600f40d755df4151812904ab9619619d74a1ba3d3cf6bfaf0b/1f10cd86-478b-4e63-8d4b-87c6760e8e69_llhls/hls.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
