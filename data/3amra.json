@@ -7,6 +7,11 @@
     },
     "categories": [
         {
+            "cid": "14",
+            "category_name": " Manchester City vs Liverpool ",
+            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/man%20city.png"
+        },
+        {
             "cid": "13",
             "category_name": "ARABIC SPORTS",
             "category_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/category/1670424671_051_sky_sport_6_logo_stack_rgb.png"
@@ -49,10 +54,22 @@
     ],
     "channels": [
         {
+            "channel_id": "124",
+            "category_id": "14",
+            "channel_name": " Manchester City vs Liverpool ",
+            "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670537155_SSC.png",
+            "channel_url": "http://89.105.221.178:2095/AYAVIP/AYATV/124182?token=GhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ==",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "بث مباشر ",
+            "user_agent": "default"
+        },
+        {
             "channel_id": "123",
             "category_id": "13",
             "channel_name": "SSC News",
-            "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670537155_SSC.png",
+            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/man city.png",
             "channel_url": "https:\/\/ssc-news-ak.akamaized.net\/out\/v1\/4af66d04e77349079c01c9bab46d8b28\/index.m3u8",
             "channel_description": "",
             "channel_type": "URL",
