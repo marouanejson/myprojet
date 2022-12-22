@@ -56,6 +56,17 @@
         {
             "channel_id": "125",
             "category_id": "14",
+            "channel_name": "بث مباشر ",
+            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/man city.png",
+            "channel_url": "http://lb.buy-global.store/live21/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1hcC1zb3V0aGVhc3QtMi52aWRlby5wc2NwLnR2L1RyYW5zY29kaW5nL3YxL2hscy9RbGd4V2I0QnVXUnZzeGdXeDM1d05UbkJPa3UyLU1kVjlwaXByYnd0YUVRczVpV0J0UjNmUjlBMlRTZDlPRmxDa1paUFNWd1J5TnpUVTE3a1hWVFdpZy90cmFuc2NvZGUvYXAtc291dGhlYXN0LTIvcGVyaXNjb3BlLXJlcGxheS1kaXJlY3QtcHJvZC1hcC1zb3V0aGVhc3QtMi1wcml2YXRlL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0luWmxjbk5wYjI0aU9pSXlJbjAuZXlKRmJtTnZaR1Z5VTJWMGRHbHVaeUk2SW1WdVkyOWtaWEpmYzJWMGRHbHVaMTgzTWpCd016QmZNVEFpTENKSVpXbG5hSFFpT2pjeU1Dd2lTMkp3Y3lJNk1qYzFNQ3dpVjJsa2RHZ2lPakV5T0RCOS5sZGt0TTRmQ0ZSZmtQNFpFQmZaUEt0bEFVTkFjVFBrb3o5OTRZSkF6V3BFL3N0X2R5bmFtaWNfaGlnaGxhdGVuY3kubTN1OD90eXBlPWxpdmU%3D",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "Manchester City vs Liverpool",
+            "user_agent": "default"
+        },        {
+            "channel_id": "125",
+            "category_id": "14",
             "channel_name": " Manchester City vs Liverpool ",
             "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/man city.png",
             "channel_url": "https://llhls-live.akamaized.net/exp=1671746822~acl=%2F1f10cd86-478b-4e63-8d4b-87c6760e8e69_llhls%2F%2A~hmac=c5e6b07d0e8149600f40d755df4151812904ab9619619d74a1ba3d3cf6bfaf0b/1f10cd86-478b-4e63-8d4b-87c6760e8e69_llhls/hls.m3u8",
