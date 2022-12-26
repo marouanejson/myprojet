@@ -7,11 +7,6 @@
     },
     "categories": [
         {
-            "cid": "19",
-            "category_name": "Brentford vs Tottenham",
-            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/totnh.png"
-        },
-        {
             "cid": "18",
             "category_name": "Everton vs Wolverhampton",
             "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/evert.png"
@@ -30,6 +25,11 @@
             "cid": "15",
             "category_name": "Aston Villa vs Liverpool",
             "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/liver.png"
+        },
+        {
+            "cid": "19",
+            "category_name": "Brentford 2-2 Tottenham",
+            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/totnh.png"
         },
         {
             "cid": "14",
@@ -81,13 +81,13 @@
         {
             "channel_id": "130",
             "category_id": "19",
-            "channel_name": "بث مباشر 2 HD",
+            "channel_name": " اهداف مباراة توتنهام وبرينتفورد (2-2) الدوري الانجليزي ",
             "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/totnh.png",
-            "channel_url": "https://lb.buy-global.store/live21/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTEudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvdndRY1dpQkh0Nk9rVHNqdEYxWGhrV0NtTGtZUlVfOWIwTUE1emFCY2UxdVl5WmFHMjF1ZjZxOTNtUEt1YlN1Wk10b3A3WnhNR2k0UXp0eldTZ3BrYXcvdHJhbnNjb2RlL2FwLXNvdXRoZWFzdC0yL3BlcmlzY29wZS1yZXBsYXktZGlyZWN0LXByb2QtYXAtc291dGhlYXN0LTItcHJpdmF0ZS9leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSXNJblpsY25OcGIyNGlPaUl5SW4wLmV5SkZibU52WkdWeVUyVjBkR2x1WnlJNkltVnVZMjlrWlhKZmMyVjBkR2x1WjE4M01qQndNekJmTVRBaUxDSklaV2xuYUhRaU9qY3lNQ3dpUzJKd2N5STZNamMxTUN3aVYybGtkR2dpT2pFeU9EQjkubGRrdE00ZkNGUmZrUDRaRUJmWlBLdGxBVU5BY1RQa296OTk0WUpBeldwRS9zdF9keW5hbWljX2hpZ2hsYXRlbmN5Lm0zdTg%2FdHlwZT1saXZl",
+            "channel_url": "https://ncdnda66.ahdafsoccer.com/UpFiles/important/132/2022/12/26/243537/720p.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "Brentford vs Tottenham",
+            "category_name": "Brentford 2-2 Tottenham",
             "user_agent": "default"
         },
         {
@@ -107,12 +107,12 @@
             "category_id": "18",
             "channel_name": "بث مباشر HD",
             "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/evert.png",
-            "channel_url": "aaaa",
+            "channel_url": "https://lb.buy-global.store/live/lb555/bp2-720.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
             "category_name": "Everton vs Wolverhampton ",
-            "user_agent": "default"
+            "user_agent": "yestv99"
         }, 
         {
             "channel_id": "128",
