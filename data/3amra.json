@@ -7,31 +7,6 @@
     },
     "categories": [
         {
-            "cid": "19",
-            "category_name": "Brentford vs Tottenham",
-            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/totnh.png"
-        },
-        {
-            "cid": "18",
-            "category_name": "Everton vs Wolverhampton",
-            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/evert.png"
-        },
-        {
-            "cid": "17",
-            "category_name": "Leicester City vs Newcastle",
-            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/newcastle.png"
-        },
-        {
-            "cid": "16",
-            "category_name": "Arsenal vs West Ham United",
-            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/arsn.png"
-        },
-        {
-            "cid": "15",
-            "category_name": "Aston Villa vs Liverpool",
-            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/liver.png"
-        },
-        {
             "cid": "14",
             "category_name": "Man City (2-3) Liverpool",
             "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/man%20city.png"
@@ -78,63 +53,6 @@
         }
     ],
     "channels": [
-        {
-            "channel_id": "126",
-            "category_id": "19",
-            "channel_name": "بث مباشر HD",
-            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/totnh.png",
-            "channel_url": "aaaa",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "Brentford vs Tottenham",
-            "user_agent": "default"
-        },       
-            "channel_id": "126",
-            "category_id": "18",
-            "channel_name": "بث مباشر HD",
-            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/evert.png",
-            "channel_url": "aaaa",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "Everton vs Wolverhampton",
-            "user_agent": "default"
-        },       
-            "channel_id": "126",
-            "category_id": "17",
-            "channel_name": "بث مباشر HD",
-            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/newcastle.png",
-            "channel_url": "aaaa",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "Leicester City vs Newcastle",
-            "user_agent": "default"
-        },       
-            "channel_id": "126",
-            "category_id": "16",
-            "channel_name": "بث مباشر HD",
-            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/arsn.png",
-            "channel_url": "aaaa",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "Arsenal vs West Ham United ",
-            "user_agent": "default"
-        },       
-        {
-            "channel_id": "126",
-            "category_id": "15",
-            "channel_name": "بث مباشر HD",
-            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/liver.png",
-            "channel_url": "aaaa",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "Aston Villa vs Liverpool",
-            "user_agent": "default"
-        }, 
         {
             "channel_id": "125",
             "category_id": "14",
