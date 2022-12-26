@@ -7,16 +7,6 @@
     },
     "categories": [
         {
-            "cid": "18",
-            "category_name": "Everton vs Wolverhampton",
-            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/evert.png"
-        },
-        {
-            "cid": "17",
-            "category_name": "Leicester City vs Newcastle",
-            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/newcastle.png"
-        },
-        {
             "cid": "16",
             "category_name": "Arsenal vs West Ham United",
             "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/arsn.png"
@@ -25,6 +15,16 @@
             "cid": "15",
             "category_name": "Aston Villa vs Liverpool",
             "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/liver.png"
+        },
+        {
+            "cid": "18",
+            "category_name": "Everton 1-2 Wolverhampton",
+            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/evert.png"
+        },
+        {
+            "cid": "17",
+            "category_name": "Leicester City 0-3 Newcastle",
+            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/newcastle.png"
         },
         {
             "cid": "19",
@@ -91,40 +91,28 @@
             "user_agent": "default"
         },
         {
-            "channel_id": "130",
-            "category_id": "19",
-            "channel_name": "بث مباشر HD",
-            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/totnh.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "Brentford vs Tottenham",
-            "user_agent": "yestv99"
-        },
-        {
             "channel_id": "129",
             "category_id": "18",
-            "channel_name": "بث مباشر HD",
+            "channel_name": " اهداف مباراة ايفرتون وولفرهامبتون (1-2) الدوري الانجليزي ",
             "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/evert.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bp2-720.m3u8",
+            "channel_url": "https://ncdnda66.ahdafsoccer.com/UpFiles/important/132/2022/12/26/243574/720p.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "Everton vs Wolverhampton ",
-            "user_agent": "yestv99"
+            "category_name": "Everton 1-2 Wolverhampton ",
+            "user_agent": "default"
         }, 
         {
             "channel_id": "128",
             "category_id": "17",
-            "channel_name": "بث مباشر HD",
+            "channel_name": " اهداف مباراة نيوكاسل و ليستر سيتي (3-0) الدوري الانجليزي ",
             "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/newcastle.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
+            "channel_url": "https://ncdnda66.ahdafsoccer.com/UpFiles/important/132/2022/12/26/243560/720p.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "Leicester City vs Newcastle",
-            "user_agent": "yestv99"
+            "category_name": "Leicester City 0-3 Newcastle",
+            "user_agent": "default"
         },
         {
             "channel_id": "127",
@@ -179,7 +167,7 @@
             "category_id": "13",
             "channel_name": "SSC 1",
             "channel_image": "https://raw.githubusercontent.com/ahmedmetssou/ads-result/main/upload/1670425463_1 - Copie (2).png",
-            "channel_url": "https:\/\/ssc-news-ak.akamaized.net\/out\/v1\/4af66d04e77349079c01c9bab46d8b28\/index.m3u8",
+            "channel_url": "http://odn.wijdane.com/x6/view_13.m3u8?t=gCKD4OVMXJAycBLopXB2AA&x=1672149046&n=false",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
