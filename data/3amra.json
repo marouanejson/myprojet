@@ -81,6 +81,18 @@
         {
             "channel_id": "130",
             "category_id": "19",
+            "channel_name": "بث مباشر 2 HD",
+            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/totnh.png",
+            "channel_url": "https://lb.buy-global.store/live21/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTEudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvdndRY1dpQkh0Nk9rVHNqdEYxWGhrV0NtTGtZUlVfOWIwTUE1emFCY2UxdVl5WmFHMjF1ZjZxOTNtUEt1YlN1Wk10b3A3WnhNR2k0UXp0eldTZ3BrYXcvdHJhbnNjb2RlL2FwLXNvdXRoZWFzdC0yL3BlcmlzY29wZS1yZXBsYXktZGlyZWN0LXByb2QtYXAtc291dGhlYXN0LTItcHJpdmF0ZS9leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSXNJblpsY25OcGIyNGlPaUl5SW4wLmV5SkZibU52WkdWeVUyVjBkR2x1WnlJNkltVnVZMjlrWlhKZmMyVjBkR2x1WjE4M01qQndNekJmTVRBaUxDSklaV2xuYUhRaU9qY3lNQ3dpUzJKd2N5STZNamMxTUN3aVYybGtkR2dpT2pFeU9EQjkubGRrdE00ZkNGUmZrUDRaRUJmWlBLdGxBVU5BY1RQa296OTk0WUpBeldwRS9zdF9keW5hbWljX2hpZ2hsYXRlbmN5Lm0zdTg%2FdHlwZT1saXZl",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "Brentford vs Tottenham",
+            "user_agent": "default"
+        },
+        {
+            "channel_id": "130",
+            "category_id": "19",
             "channel_name": "بث مباشر HD",
             "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/totnh.png",
             "channel_url": "http://dn.ab-cdn.com/live/61616000/index.m3u8?t=IMxrYUe-sAgcJli1H7Teeg&e=1672059734",
