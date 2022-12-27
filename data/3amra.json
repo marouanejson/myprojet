@@ -7,11 +7,6 @@
     },
     "categories": [
         {
-            "cid": "15",
-            "category_name": " Manchester United vs Nottingham ",
-            "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/manu.png"
-        },
-        {
             "cid": "14",
             "category_name": "Today Goals اهداف اليوم",
             "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/today%20goals.jpg"
@@ -59,7 +54,19 @@
     ],
     "channels": [
         {
-            "channel_id": "140",
+            "channel_id": "132",
+            "category_id": "14",
+            "channel_name": " اهداف مباراة مانشستر يونايتد ونوتينجهام فورست (3-0) الدوري الانجليزي ",
+            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/manu.png",
+            "channel_url": "https://ncdnda66.ahdafsoccer.com/UpFiles/important/132/2022/12/27/243711/720p.m3u8",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "Manchester United 3-0 Nottingham  ",
+            "user_agent": "default"
+        },       
+        {
+            "channel_id": "131",
             "category_id": "14",
             "channel_name": " اهداف مباراة تشيلسي وبورنموث (2-0) الدوري الانجليزي ",
             "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/chel.png",
@@ -68,18 +75,6 @@
             "channel_type": "URL",
             "video_id": "",
             "category_name": "Chelsea 2-0 AFC Bournemouth ",
-            "user_agent": "default"
-        },       
-        {
-            "channel_id": "139",
-            "category_id": "15",
-            "channel_name": " بث مباشر HD ",
-            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/manu.png",
-            "channel_url": "https://lb.buy-global.store/live21/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1hcC1ub3J0aGVhc3QtMS52aWRlby5wc2NwLnR2L1RyYW5zY29kaW5nL3YxL2hscy9BNGRXNnBIYnVmRFZrbkI4WE8tR3lwbVJGdVNSaVBGOVgtVkNsRzk1Rk9QQ283ZmJJWFBpalN2b2ZVODNqcWE4aG5IeERSS01CM3dnRnFhNDZpdkFvdy90cmFuc2NvZGUvYXAtbm9ydGhlYXN0LTEvcGVyaXNjb3BlLXJlcGxheS1kaXJlY3QtcHJvZC1hcC1ub3J0aGVhc3QtMS1wcml2YXRlL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0luWmxjbk5wYjI0aU9pSXlJbjAuZXlKRmJtTnZaR1Z5VTJWMGRHbHVaeUk2SW1WdVkyOWtaWEpmYzJWMGRHbHVaMTgzTWpCd016QmZNVEFpTENKSVpXbG5hSFFpT2pjeU1Dd2lTMkp3Y3lJNk1qYzFNQ3dpVjJsa2RHZ2lPakV5T0RCOS5sZGt0TTRmQ0ZSZmtQNFpFQmZaUEt0bEFVTkFjVFBrb3o5OTRZSkF6V3BFL3N0X2R5bmFtaWNfaGlnaGxhdGVuY3kubTN1OD90eXBlPWxpdmU%3D",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "Manchester United vs Nottingham  ",
             "user_agent": "default"
         },       
         {
