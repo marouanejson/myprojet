@@ -64,7 +64,7 @@
     ],
     "channels": [
         {
-            "channel_id": "129",
+            "channel_id": "140",
             "category_id": "16",
             "channel_name": " بث مباشر HD ",
             "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/chel.png",
@@ -76,7 +76,7 @@
             "user_agent": "default"
         },       
         {
-            "channel_id": "128",
+            "channel_id": "139",
             "category_id": "15",
             "channel_name": " بث مباشر HD ",
             "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/manu.png",
