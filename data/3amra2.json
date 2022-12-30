@@ -7,14 +7,14 @@
 },
 "categories": [
 {
-"cid": "16",
-"category_name": "Atlético Madrid vs Elche",
-"category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/match/a%20madrid.png"
+      "cid": "16",
+"category_name": "Liverpool vs Leicester City",
+"category_image": "https://wahdiwna.com/test-json/upload/liver.png"
 },
 {
 "cid": "15",
-"category_name": "O. Marseille vs Toulouse",
-"category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/match/mars.png"
+"category_name": "Real Valladolid vs Real Madrid",
+"category_image": "https://wahdiwna.com/test-json/upload/real.png"
 },
 {
 "cid": "14",
@@ -63,28 +63,28 @@
 }
 ],
 "channels": [
-        {
+ {
             "channel_id": "136",
             "category_id": "16",
             "channel_name": "(HD) بث مباشر",
-            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/match/a%20madrid.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bs1-720.m3u8",
+            "channel_image": "https://wahdiwna.com/test-json/upload/liver.png",
+            "channel_url": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "Atlético Madrid vs Elche ",
+            "category_name": "Liverpool vs Leicester City ",
             "user_agent": "yestv99"
         },       
         {
             "channel_id": "135",
             "category_id": "15",
             "channel_name": "(HD) بث مباشر",
-            "channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/match/mars.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bs2-720.m3u8",
+            "channel_image": "https://wahdiwna.com/test-json/upload/real.png",
+            "channel_url": "https://lb.buy-global.store/live/lb555/bs1-720.m3u8",
             "channel_description": "",
             "channel_type": "URL",
             "video_id": "",
-            "category_name": "O. Marseille vs Toulouse ",
+            "category_name": "Real Valladolid vs Real Madrid",
             "user_agent": "yestv99"
         },       
 
