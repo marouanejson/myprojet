@@ -7,41 +7,6 @@
 },
 "categories": [
 {
-"cid": "21",
-"category_name": "AFC Bournemouth -- : -- Crystal Palace",
-"category_image": "https://wahdiwna.com/test-json/upload/cry.png"
-},
-{
-      "cid": "20",
-"category_name": "FC Fulham -- : -- Southampton",
-"category_image": "https://wahdiwna.com/test-json/upload/full.png"
-},
-{
-"cid": "19",
-"category_name": "Manchester City - : -- FC Everton",
-"category_image": "https://wahdiwna.com/test-json/upload/city.png"
-},
-      {
-"cid": "18",
-"category_name": "Newcastle United -- : -- Leeds United",
-"category_image": "https://wahdiwna.com/test-json/upload/new.png"
-},
-{
-"cid": "17",
-"category_name": "Real Sociedad -- : -- Osasuna",
-"category_image": "https://wahdiwna.com/test-json/upload/soc.png"
-},
-{
-      "cid": "16",
-"category_name": "Villarreal CF -- : -- Valencia C.F",
-"category_image": "https://wahdiwna.com/test-json/upload/vale.png"
-},
-{
-"cid": "15",
-"category_name": "Brighton & Hove Albion -- : -- Arsenal",
-"category_image": "https://wahdiwna.com/test-json/upload/arse.png"
-},
-{
 "cid": "14",
 "category_name": "Today Goals اهداف اليوم",
 "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/today%20goals.jpg"
@@ -88,90 +53,6 @@
 }
 ],
 "channels": [
- {
-            "channel_id": "142",
-            "category_id": "21",
-            "channel_name": "(HD) بث مباشر",
-            "channel_image": "https://wahdiwna.com/test-json/upload/cry.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bp3-720.m3u8",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "AFC Bournemouth -- : -- Crystal Palace ",
-            "user_agent": "yestv99"
-        },       
-        {
-            "channel_id": "141",
-            "category_id": "20",
-            "channel_name": "(HD) بث مباشر",
-            "channel_image": "https://wahdiwna.com/test-json/upload/full.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bs2-720.m3u8",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "FC Fulham -- : -- Southampton",
-            "user_agent": "yestv99"
-        },   {
-            "channel_id": "140",
-            "category_id": "19",
-            "channel_name": "(HD) بث مباشر",
-            "channel_image": "https://wahdiwna.com/test-json/upload/city.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "Manchester City VS FC Everton ",
-            "user_agent": "yestv99"
-        },       
- {
-            "channel_id": "138",
-            "category_id": "18",
-            "channel_name": "(HD) بث مباشر",
-            "channel_image": "https://wahdiwna.com/test-json/upload/new.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bp2-720.m3u8",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "Newcastle United VS Leeds United ",
-            "user_agent": "yestv99"
-        },       
-        {
-            "channel_id": "137",
-            "category_id": "17",
-            "channel_name": "(HD) بث مباشر",
-            "channel_image": "https://wahdiwna.com/test-json/upload/soc.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bs2-720.m3u8",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "Real Sociedad VS Osasuna",
-            "user_agent": "yestv99"
-        },   
-       {
-            "channel_id": "136",
-            "category_id": "16",
-            "channel_name": "(HD) بث مباشر",
-            "channel_image": "https://wahdiwna.com/test-json/upload/vale.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bs1-720.m3u8",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": " Villarreal CF VS Valencia C.F",
-            "user_agent": "yestv99"
-        },       
-        {
-            "channel_id": "135",
-            "category_id": "15",
-            "channel_name": "(HD) بث مباشر",
-            "channel_image": "https://wahdiwna.com/test-json/upload/arse.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "Brighton  VS Arsenal",
-            "user_agent": "yestv99"
-        }, 
-
 {
 "channel_id": "134",
 "category_id": "14",
