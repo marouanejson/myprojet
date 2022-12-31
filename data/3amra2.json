@@ -7,15 +7,6 @@
 },
 "categories": [
 {
-"cid": "23",
-"category_name": "Wolverhampton Wanderers -- : -- Manchester United",
-"category_image": "https://wahdiwna.com/test-json/upload/mu.png"
-},
-  {   "cid": "22",
-"category_name": "FC Barcelona -- : -- RCD Espanyol",
-"category_image": "https://wahdiwna.com/test-json/upload/bar.png"
-},
-{
 "cid": "21",
 "category_name": "AFC Bournemouth -- : -- Crystal Palace",
 "category_image": "https://wahdiwna.com/test-json/upload/cry.png"
@@ -97,30 +88,6 @@
 }
 ],
 "channels": [
-         {
-            "channel_id": "144",
-            "category_id": "23",
-            "channel_name": "(HD) بث مباشر",
-            "channel_image": "https://wahdiwna.com/test-json/upload/mu.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "Wolverhampton Wanderers -- : -- Manchester United ",
-            "user_agent": "yestv99"
-        },       
-        {
-            "channel_id": "143",
-            "category_id": "22",
-            "channel_name": "(HD) بث مباشر",
-            "channel_image": "https://wahdiwna.com/test-json/upload/bar.png",
-            "channel_url": "https://lb.buy-global.store/live/lb555/bs1-720.m3u8",
-            "channel_description": "",
-            "channel_type": "URL",
-            "video_id": "",
-            "category_name": "FC Barcelona -- : -- RCD Espanyol",
-            "user_agent": "yestv99"
-        },       
  {
             "channel_id": "142",
             "category_id": "21",
