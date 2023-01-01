@@ -7,6 +7,23 @@
 },
 "categories": [
 {
+"cid": "15",
+"category_name": "Tottenham Hotspur vs Aston Villa",
+"category_image": "https://marouaneai.com/yacinetvapp/app/upload/category/1672581324_totn.png"
+},
+"cid": "16",
+"category_name": "Olympique Lyonnais vs Clermont Foot 63 ",
+"category_image": "https://marouaneai.com/yacinetvapp/app/upload/category/1672581301_lyon.png"
+},
+"cid": "17",
+"category_name": "Nottingham Forest vs Chelsea ",
+"category_image": "https://marouaneai.com/yacinetvapp/app/upload/category/1672581273_chel.png"
+},
+"cid": "18",
+"category_name": "RC Lens vs Paris Saint-Germain ",
+"category_image": "https://marouaneai.com/yacinetvapp/app/upload/category/1672581225_psg.png"
+},
+{
 "cid": "14",
 "category_name": "Today Goals اهداف اليوم",
 "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/today%20goals.jpg"
@@ -53,6 +70,54 @@
 }
 ],
 "channels": [
+{
+"channel_id": "138",
+"category_id": "15",
+"channel_name": " (HD) بث مباشر ",
+"channel_image": "https://marouaneai.com/yacinetvapp/app/upload/1672581464_totn.png",
+"channel_url": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
+"channel_description": "",
+"channel_type": "URL",
+"video_id": "",
+"category_name": "  ",
+"user_agent": "yestv99"
+},
+{
+"channel_id": "137",
+"category_id": "15",
+"channel_name": " (HD) بث مباشر ",
+"channel_image": "https://marouaneai.com/yacinetvapp/app/upload/1672581464_totn.png",
+"channel_url": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
+"channel_description": "",
+"channel_type": "URL",
+"video_id": "",
+"category_name": "  ",
+"user_agent": "yestv99"
+},
+{
+"channel_id": "136",
+"category_id": "15",
+"channel_name": " (HD) بث مباشر ",
+"channel_image": "https://marouaneai.com/yacinetvapp/app/upload/1672581464_totn.png",
+"channel_url": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
+"channel_description": "",
+"channel_type": "URL",
+"video_id": "",
+"category_name": "  ",
+"user_agent": "yestv99"
+},
+{
+"channel_id": "135",
+"category_id": "15",
+"channel_name": " (HD) بث مباشر ",
+"channel_image": "https://marouaneai.com/yacinetvapp/app/upload/1672581464_totn.png",
+"channel_url": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
+"channel_description": "",
+"channel_type": "URL",
+"video_id": "",
+"category_name": "  ",
+"user_agent": "yestv99"
+},
 {
 "channel_id": "134",
 "category_id": "14",
