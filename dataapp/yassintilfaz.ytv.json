@@ -5,7 +5,7 @@
     
     "app":{
         "status":1,
-        "redirect_url":"https:\/\/play.google.com\/store\/apps\/details?id=com.ea.gp.fifamobile"
+        "redirect_url":"https:\/\/play.google.com\/store\/apps\/details?id=com.app.yassin.ytv"
     },
     
     "settings":{
@@ -17,7 +17,7 @@
         "providers":"firebase",
         "protocol_type":"http",
         "fcm_notification_topic":"the_stream_topic",
-        "more_apps_url":"https://play.google.com/store/apps/developer?id=razaghi+dev",
+        "more_apps_url":"https://play.google.com/store/apps/developer?id=Green_Apps",
         "youtube_api_key":0
     },
     
