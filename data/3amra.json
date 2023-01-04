@@ -7,6 +7,18 @@
 },
 "categories": [
   {
+      "cid": "17",
+      "category_name": "Inter vs Napoli  ",
+      "category_image": "https://marouaneai.com/yacinetvapp/app/upload/1672834224_napoli.png"
+  },  
+  {
+      "cid": "16",
+      "category_name": "CF Intercity vs Barcelona ",
+      "category_image": "https://marouaneai.com/yacinetvapp/app/upload/category/1672840590_barc.png"
+  },  
+	
+	
+  {
       "cid": "15",
       "category_name": "BeIN SPORTS (720P)",
       "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/channel/bein%20sports.png"
@@ -59,6 +71,30 @@
 }
 ],
 "channels": [
+	{
+		"channel_id": "151",
+		"category_id": "17",
+		"channel_name": "بث مباشر  HD",
+		"channel_image": "https://marouaneai.com/yacinetvapp/app/upload/1672834224_napoli.png",
+		"channel_url": "https://webdi.openhd.lol/cdn/yallalive1/tracks-v1a1/mono.m3u8",
+		"channel_description": "",
+		"channel_type": "URL",
+		"video_id": "",
+		"category_name": "Inter vs Napoli ",
+		"user_agent": "default"
+	},
+	{
+		"channel_id": "150",
+		"category_id": "16",
+		"channel_name": "بث مباشر  HD",
+		"channel_image": "https://marouaneai.com/yacinetvapp/app/upload/category/1672840590_barc.png",
+		"channel_url": "https://hegazyiptv5.com/Luis1701/Admin123456/3545",
+		"channel_description": "",
+		"channel_type": "URL",
+		"video_id": "",
+		"category_name": "CF Intercity vs Barcelona ",
+		"user_agent": "default"
+	},
 
 	{
 		"channel_id": "149",
