@@ -11,17 +11,17 @@
         {
             "cid":3,
             "category_name":"الرياضية",
-            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icon.png"
+            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png"
         },
         {
             "cid":2,
             "category_name":"الاولى",
-            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icon.png"
+            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png"
         },
         {
             "cid":1,
             "category_name":"المغربية",
-            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icon.png"
+            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png"
         }
     ],
     
@@ -30,7 +30,7 @@
             "channel_id":1,
             "category_id":1,
             "channel_name":"المغربية",
-            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icon.png",
+            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
             "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
             "channel_description":"",
             "channel_type":"URL",
@@ -42,7 +42,7 @@
             "channel_id":2,
             "category_id":2,
             "channel_name":"الاولى",
-            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icon.png",
+            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
             "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
             "channel_description":"",
             "channel_type":"URL",
@@ -54,7 +54,7 @@
             "channel_id":3,
             "category_id":3,
             "channel_name":"الرياضية",
-            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icon.png",
+            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
             "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
             "channel_description":"",
             "channel_type":"URL",
