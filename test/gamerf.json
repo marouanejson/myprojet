@@ -1,0 +1,18 @@
+{
+	"DataAds": {
+		"Packagename_App_Here": {
+			"max_int": "null",
+			"max_ban": "null",
+			"max_native": "null",
+			"orientation": "landscape/portrat",
+			"Ads": true
+		},
+		"com.gameweb.gamewebview": {
+			"max_int": "null",
+			"max_ban": "null",
+			"max_native": "null",
+			"orientation": "landscape",
+			"Ads": false
+		}
+	}
+}
